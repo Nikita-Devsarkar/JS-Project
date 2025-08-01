@@ -30,14 +30,6 @@ Optionally, win the game after reaching a defined maximum length (e.g. 20 rounds
 Disable clicks during the computer’s turn.
 Update status messages.</p>
 
-
-📂 Suggested File Structure (example)
-<p></p>
-├── index.html       ← Game layout and controls  
-├── styles.css       ← Visual design  
-└── app.js          ← Game logic,sequence control,event handlers 
-
-
 ✅ Summary
 <p>
 Step 1: Player clicks Start.
