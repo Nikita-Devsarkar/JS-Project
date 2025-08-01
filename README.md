@@ -2,8 +2,8 @@
 
 <img width="1863" height="869" alt="Screenshot 2025-08-01 234423" src="https://github.com/user-attachments/assets/0b6d4654-10a6-4cf7-9c21-a02673f27a8d" />
 
-🎮 Simon Says
-A simple memory-based game where the player must repeat an ever-growing sequence of signals.
+<h4>🎮 Simon Says</h4>
+<p>A simple memory-based game where the player must repeat an ever-growing sequence of signals.</p>
 
 
 🛠️ Setup
