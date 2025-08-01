@@ -32,7 +32,7 @@ Update status messages.</p>
 
 
 📂 Suggested File Structure (example)
-/
+<p></p>
 ├── index.html       ← Game layout and controls  
 ├── styles.css       ← Visual design  
 └── app.js          ← Game logic,sequence control,event handlers 
