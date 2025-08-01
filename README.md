@@ -7,12 +7,12 @@
 
 
 🛠️ Setup
-Create source files for HTML/CSS/JS (or your chosen language).
-Add interactive components: Start button, visual pads (e.g. 4 colored buttons), status display.
+<p>Create source files for HTML/CSS/JS (or your chosen language).
+Add interactive components: Start button, visual pads (e.g. 4 colored buttons), status display.</p>
 
 
 🚀 Game Flow
-◆ Start Game
+<p>◆ Start Game
 Player clicks Start → interface resets → computer begins the sequence.
 ◆ Computer Turn
 Randomly select and display a new step (e.g. flash a pad + play tone).
@@ -23,12 +23,12 @@ After each click, check if input matches the corresponding computer value.
 ◆ Validation
 If a mismatch: show a failure message and reset.
 If correct and sequence is complete: proceed to next round.
-Optionally, win the game after reaching a defined maximum length (e.g. 20 rounds).
+Optionally, win the game after reaching a defined maximum length (e.g. 20 rounds).</p>
 
 🎯 UI
-Show current level or round.
+<p>Show current level or round.
 Disable clicks during the computer’s turn.
-Update status messages.
+Update status messages.</p>
 
 
 📂 Suggested File Structure (example)
@@ -39,11 +39,12 @@ Update status messages.
 
 
 ✅ Summary
+<p>
 Step 1: Player clicks Start.
 Step 2: Computer displays a growing random sequence.
 Step 3: Player repeats the sequence.
 Step 4: Game checks input; continues or resets.
-Step 5  Player wins after high Score🏆.
+Step 5  Player wins after high Score🏆.</p>
 
 
 <img width="1863" height="858" alt="Screenshot 2025-08-01 234354" src="https://github.com/user-attachments/assets/b40f56c7-7bf4-462e-9269-44aab5a5ed24" />
