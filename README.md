@@ -1,5 +1,5 @@
 # JS-Project
-
+At Starting our UI like this
 <img width="1863" height="869" alt="Screenshot 2025-08-01 234423" src="https://github.com/user-attachments/assets/0b6d4654-10a6-4cf7-9c21-a02673f27a8d" />
 
 <h4>🎮 Simon Says</h4>
@@ -38,5 +38,5 @@ Step 3: Player repeats the sequence.
 Step 4: Game checks input; continues or resets.
 Step 5  Player wins after high Score🏆.</p>
 
-
+At end of  The Game
 <img width="1863" height="858" alt="Screenshot 2025-08-01 234354" src="https://github.com/user-attachments/assets/b40f56c7-7bf4-462e-9269-44aab5a5ed24" />
